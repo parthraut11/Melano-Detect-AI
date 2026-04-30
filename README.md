@@ -3,6 +3,7 @@ Skin Cancer Classification using Deep Learning
 
 📌 Project Overview 
 This project aims to classify skin lesions into multiple classes (e.g., Melanoma, Basal Cell Carcinoma, Nevus) using Convolutional Neural Networks (CNNs). It acts as a supporting tool for early detection, which is crucial as early-stage melanoma has a high cure rate. This model is built to aid dermatologists by acting as a first round of screening. 
+
 🧠 Approach 
 
 • Architecture: ResNet50 / CNN 
@@ -58,5 +59,5 @@ How to use this template:
 2. Replace placeholder links (like ) with your actual repository links. 
 3. Update the "Results" section with your model's actual performance metrics. 
 
-AI responses may include mistakes.
+
 
